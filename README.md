@@ -1,2 +1,3 @@
 # hello-world
-Just another repository
+
+In the cookie of life, friends are the chocolate chips.
